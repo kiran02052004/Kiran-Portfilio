@@ -17,7 +17,7 @@ This portfolio showcases my **skills, education, projects, experience, and certi
 
 ## 🌐 Live Demo  
 🔗 **Website:** https://your-portfolio-link.com  
-🔗 **GitHub Repo:** https://github.com/yourusername/portfolio  
+🔗 **GitHub Repo:** https://github.com/kiran02052004/Kiran-Portfilio.git  
 
 ---
 
@@ -53,41 +53,13 @@ This portfolio showcases my **skills, education, projects, experience, and certi
   
 ---
 
-## 📁 Folder Structure
-
-```
-
-portfolio/
-│── public/
-│   ├── images/
-│   ├── favicon.ico
-│   └── certificates/
-│
-│── src/
-│   ├── components/
-│   ├── pages/
-│   ├── data/
-│   ├── styles/
-│   ├── App.tsx
-│   ├── main.tsx
-│   └── index.css
-│
-│── .gitignore
-│── package.json
-│── tsconfig.json
-│── vite.config.ts
-└── README.md
-
-````
-
----
 
 ## 🚀 Setup & Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/portfolio.git
+git clone https://github.com/kiran02052004/Kiran-Portfilio.git
 cd portfolio
 ````
 
@@ -131,9 +103,9 @@ npm run preview
 
 Feel free to connect with me:
 
-* **Email:** [yourname@email.com](mailto:yourname@email.com)
-* **LinkedIn:** [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
+* **Email:** [kiranpatil452004@gmail.com](mailto:kiranpatil452004@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/patil-kiran-120952256/](https://www.linkedin.com/in/patil-kiran-120952256/)
+* **GitHub:** [https://github.com/kiran02052004](https://github.com/kiran02052004)
 
 ---
 
@@ -149,7 +121,7 @@ This project is **MIT Licensed**. You are free to use and modify it.
 
 ---
 
-Made with ❤️ by **[Your Name]**
+Made with ❤️ by **Kiran Patil**
 
 ```
 
